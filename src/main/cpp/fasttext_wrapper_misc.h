@@ -4,11 +4,7 @@
 #include "fastText/src/args.h"
 #include "fastText/src/dictionary.h"
 #include "fastText/src/matrix.h"
-#include "fastText/src/densematrix.h"
 #include "fastText/src/model.h"
-#include "fastText/src/quantmatrix.h"
-#include "fastText/src/loss.h"
-
 /**
  * FastText's wrapper misc
  */
